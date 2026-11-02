@@ -13,6 +13,6 @@
 
 ## Eine Anforderung, die niemand ausgesprochen hat
 
-A08 - Die hat niemand gennant, weil es ja eigentlich selbstverständlich ist aber für das System ist es das nicht, deshalb muss es eine weitere Funktion des Systems sein.
+A08 - Die hat niemand gennant, weil es ja eigentlich selbstverständlich ist aber für das System ist es das nicht, deshalb muss es eine weitere Funktion des Systems sein
 
 
